@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 
 # Load model
-model = joblib.load("../models/stock_movement_model.pkl")
+model = joblib.load("stock_movement_model.pkl")
 
 # Page config
 st.set_page_config(
