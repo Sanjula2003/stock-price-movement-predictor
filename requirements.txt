@@ -5,3 +5,4 @@ joblib
 yfinance
 ta
 matplotlib
+plotly
