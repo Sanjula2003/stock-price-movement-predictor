@@ -76,13 +76,13 @@ Random Forest was selected because it performs well on structured tabular data a
 
 ## 📈 Dashboard Preview
 
-Add screenshots here:
 
-```text
-screenshots/dashboard.png
-screenshots/prediction-result-1.png
-screenshots/prediction-result-2.png
-screenshots/candlestick-chart.png
+
+
+(screenshots/dashboard.png)
+(screenshots/prediction-result-1.png)
+(screenshots/prediction-result-2.png)
+(screenshots/candlestick-chart.png)
 
 📌 How to Run Locally
 
